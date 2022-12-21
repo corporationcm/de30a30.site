@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 16 Dec 2022 01:33:10 at https://3em30.online/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*/https://ferramentaliberada.fun/maq//* +*/https://3em30.online//*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt, en, *" https://3em30.online/ -O1 "C:\Users\mhsil\Desktop\como ganhar dinheiro com kawi\s" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*/https://ferramentaliberada.fun/maq//* +*/https://3em30.online//* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:33:28	Error: 	"Forbidden" (403) at link https://3em30.online/wp-content/plugins/presto-player/dist/ (from https://3em30.online/)
+01:33:30	Error: 	"Not Found" (404) at link https://3em30.online/wp-content/uploads/2022/10/MeÌtodo-incriÌvel-1.png (from https://3em30.online/wp-content/uploads/elementor/css/post-2416.css?ver=1670343440)
+01:33:30	Error: 	"Not Found" (404) at link https://3em30.online/c (from https://connect.facebook.net/en_US/fbevents.js)
+01:33:30	Error: 	"Not Found" (404) at link https://3em30.online/b (from https://connect.facebook.net/en_US/fbevents.js)
+01:33:30	Error: 	"Not Found" (404) at link https://3em30.online/POST (from https://connect.facebook.net/en_US/fbevents.js)
+01:33:30	Error: 	"Not Found" (404) at link https://3em30.online/-negative.svg (from https://3em30.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.0-dev10)
+01:33:30	Error: 	"Not Found" (404) at link https://3em30.online/OPR/ (from https://3em30.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.0-dev10)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 70 links scanned, 62 files written (3181845 bytes overall) [1963778 bytes received at 98188 bytes/sec], 1586616 bytes transferred using HTTP compression in 42 files, ratio 20%, 8.7 requests per connection
+(7 errors, 0 warnings, 0 messages)
